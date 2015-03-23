@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BaseCsoundActivity.java&apos; to &apos;Touch/src/com.main.touch&apos;&#x0D;&#x0A;- Original project: &apos;CsoundAndroidExamples&apos;&#x0D;&#x0A;- Destination element: &apos;Touch/src/com.main.touch&apos;&#x0D;&#x0A;- Original element: &apos;com.csounds.examples.BaseCsoundActivity.java&apos;" description="Copy compilation unit" destination="=Touch/src&lt;com.main.touch" element1="/src&lt;com.csounds.examples{BaseCsoundActivity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1427058774152" units="1" version="1.0"/>
+</session>
